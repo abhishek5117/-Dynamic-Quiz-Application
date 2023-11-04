@@ -1,0 +1,162 @@
+[
+    {
+        "question": "How do you write 'Hello World' in an alert box?",
+        "choice1": "msgBox('Hello World');",
+        "choice2": "alertBox('Hello World');",
+        "choice3": "msg('Hello World');",
+        "choice4": "alert('Hello World');",
+        "answer": 4
+    },
+    {
+        "question": "Which language is used for web development?",
+        "choice1": "Java",
+        "choice2": "Python",
+        "choice3": "HTML",
+        "choice4": "C++",
+        "answer": 3
+    },
+    {
+        "question": "What does CSS stand for?",
+        "choice1": "Cascading Style Sheet",
+        "choice2": "Computer Style Sheet",
+        "choice3": "Creative Style System",
+        "choice4": "Colorful Style Sheet",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "choice1": "Kyoto",
+        "choice2": "Shanghai",
+        "choice3": "Seoul",
+        "choice4": "Tokyo",
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is not a programming language?",
+        "choice1": "Python",
+        "choice2": "Java",
+        "choice3": "HTML",
+        "choice4": "C#",
+        "answer": 3
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "choice1": "Earth",
+        "choice2": "Venus",
+        "choice3": "Mars",
+        "choice4": "Jupiter",
+        "answer": 4
+    },
+    {
+        "question": "What is the national animal of Australia?",
+        "choice1": "Kangaroo",
+        "choice2": "Koala",
+        "choice3": "Platypus",
+        "choice4": "Wombat",
+        "answer": 1
+    },
+    {
+        "question": "Which of these colors is not in the rainbow?",
+        "choice1": "Yellow",
+        "choice2": "Indigo",
+        "choice3": "Green",
+        "choice4": "Orange",
+        "answer": 3
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "choice1": "Elephant",
+        "choice2": "Lion",
+        "choice3": "Whale Shark",
+        "choice4": "Giraffe",
+        "answer": 3
+    },
+    {
+        "question": "How many continents are there in the world?",
+        "choice1": "5",
+        "choice2": "6",
+        "choice3": "7",
+        "choice4": "8",
+        "answer": 3
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "choice1": "0",
+        "choice2": "1",
+        "choice3": "2",
+        "choice4": "3",
+        "answer": 2
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "choice1": "H2O",
+        "choice2": "CO2",
+        "choice3": "O2",
+        "choice4": "CH4",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest ocean in the world?",
+        "choice1": "Atlantic Ocean",
+        "choice2": "Indian Ocean",
+        "choice3": "Arctic Ocean",
+        "choice4": "Pacific Ocean",
+        "answer": 4
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "choice1": "Earth",
+        "choice2": "Mars",
+        "choice3": "Venus",
+        "choice4": "Jupiter",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of France?",
+        "choice1": "London",
+        "choice2": "Berlin",
+        "choice3": "Paris",
+        "choice4": "Madrid",
+        "answer": 3
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "choice1": "Charles Dickens",
+        "choice2": "William Shakespeare",
+        "choice3": "Leo Tolstoy",
+        "choice4": "Jane Austen",
+        "answer": 2
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "choice1": "Heart",
+        "choice2": "Brain",
+        "choice3": "Skin",
+        "choice4": "Lungs",
+        "answer": 3
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "choice1": "Russia",
+        "choice2": "India",
+        "choice3": "China",
+        "choice4": "Vatican City",
+        "answer": 4
+    },
+    {
+        "question": "Who is known as the father of modern physics?",
+        "choice1": "Albert Einstein",
+        "choice2": "Isaac Newton",
+        "choice3": "Galileo Galilei",
+        "choice4": "Nikola Tesla",
+        "answer": 1
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "choice1": "Carbon dioxide",
+        "choice2": "Oxygen",
+        "choice3": "Nitrogen",
+        "choice4": "Methane",
+        "answer": 1
+    }
+]
